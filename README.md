@@ -1,1 +1,1 @@
-# ML-supervised-learning
+Udacity machine learning assignment on supervised learning. Experimented with three different supervised learning models to make predictions if a student would drop out of school or not based on their personal information.
